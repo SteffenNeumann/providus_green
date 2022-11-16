@@ -30,7 +30,7 @@
 
 @media (min-width: 640px) and (max-width: 767px) {
   #banner .container {
-   background-image: linear-gradient(to right, rgba(148, 212, 167, 0.582) 0 100%)url(../img/professional_team1.gif);
+   background-image: linear-gradient(to right, rgba(102, 171, 130, 0.582) 0 100%),url("/img/default/banner_team.png");
   }
   #team .col {
     padding: 0 137px;
@@ -64,7 +64,7 @@
     text-align: center;
   }
   #banner .container {
-    background-image: linear-gradient(to right, rgb(148, 212, 167) 0 100%),url(../img/professional_team1.gif);
+    background-image: linear-gradient(to right, rgb(102, 171, 130) 0 100%),url("/img/default/banner_team.png");
   }
   #banner .block .buttons a:first-child {
     margin-left: 7px;
